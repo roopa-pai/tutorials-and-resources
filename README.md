@@ -1,10 +1,11 @@
 <!--![shiba love MRI scanner](https://raw.githubusercontent.com/learn-neuroimaging/tutorials-and-resources/master/img/dogeLoveScanner_600x400.gif)-->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="https://user-images.githubusercontent.com/6297454/47931389-f6cc1800-dece-11e8-9169-0477c9400733.gif" style="float:right" />
 
 # Welcome !
+
 ## Introduction
 
 This website is full of links and resources for all your neuro-needs!
@@ -13,9 +14,12 @@ https://learn-neuroimaging.github.io/tutorials-and-resources
 
 We currently use mkdocs for our website. The "docs" directory contains ".md" pages containing domain-specific links to resources.
 
-# A list of tutorials and other resources useful for open science and neuroimaging
+## How to add a resource and contribute
+See our contributing [guidelines](.CONTRIBUTING.md)
 
-Join our channel on  <a href="https://mattermost.brainhack.org/brainhack/channels/tutorial-and-resources" target="_blank"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px /></a>
+## Get in touch
+
+Join our channel on  <a href="https://mattermost.brainhack.org/brainhack/channels/tutorial-and-resources" target="blank"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px /></a>
 
 ## Contributors ✨
 
@@ -49,6 +53,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://avakiai.com"><img src="https://avatars2.githubusercontent.com/u/30446919?v=4" width="100px;" alt=""/><br /><sub><b>Ava</b></sub></a><br /><a href="https://github.com/learn-neuroimaging/tutorials-and-resources/commits?author=avakiai" title="Code">💻</a> <a href="#content-avakiai" title="Content">🖋</a> <a href="#ideas-avakiai" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://www.mrtrix.org"><img src="https://avatars2.githubusercontent.com/u/5637955?v=4" width="100px;" alt=""/><br /><sub><b>Robert Smith</b></sub></a><br /><a href="https://github.com/learn-neuroimaging/tutorials-and-resources/commits?author=Lestropie" title="Code">💻</a> <a href="#content-Lestropie" title="Content">🖋</a> <a href="#ideas-Lestropie" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/dr-xenia"><img src="https://avatars2.githubusercontent.com/u/26187290?v=4" width="100px;" alt=""/><br /><sub><b>Xenia Kobeleva</b></sub></a><br /><a href="https://github.com/learn-neuroimaging/tutorials-and-resources/commits?author=dr-xenia" title="Code">💻</a> <a href="#content-dr-xenia" title="Content">🖋</a> <a href="#ideas-dr-xenia" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://rcmd.org/ts/"><img src="https://avatars0.githubusercontent.com/u/1061893?v=4" width="100px;" alt=""/><br /><sub><b>Tim Schäfer</b></sub></a><br /><a href="https://github.com/learn-neuroimaging/tutorials-and-resources/commits?author=dfsp-spirit" title="Code">💻</a> <a href="#content-dfsp-spirit" title="Content">🖋</a> <a href="#ideas-dfsp-spirit" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
